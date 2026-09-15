@@ -10,3 +10,6 @@ I am learning to commit changes using GitHub Desktop.
 
 ## Main Branch
 These changes were made on the main branch.
+
+## Branch Practice
+This change was made on the add-training-notes branch.
