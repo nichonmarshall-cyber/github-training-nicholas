@@ -7,3 +7,6 @@ Practice commits, branches, pull requests, and merging changes back into the mai
 
 ## Commit Practice
 I am learning to commit changes using GitHub Desktop.
+
+## Main Branch
+These changes were made on the main branch.
